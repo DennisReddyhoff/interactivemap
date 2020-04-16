@@ -13,5 +13,5 @@ setup(
         'google.cloud',
         'bokeh',
         'scipy'
-    ],
+    ]
 )
